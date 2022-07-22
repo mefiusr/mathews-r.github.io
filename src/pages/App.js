@@ -7,7 +7,7 @@ class App extends React.Component {
   render() {
     return (
        <BrowserRouter>
-        <Route exact path="/portfolio" component={Home} />
+        <Route exact path="/" component={Home} />
       </BrowserRouter>
     )
   }
