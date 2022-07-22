@@ -17,14 +17,14 @@ const data = [
     name: 'Tryunfo',
     description: 'Componentes com estado/eventos e formulários em React',
     image: Trunfo,
-    url: 'tryunfo/'
+    url: 'tryunfo'
   },
   {
     id: 'trybetunes',
     name: 'TrybeTunes',
     description: 'Componentes com estado/eventos e formulários em React',
     image: Music,
-    url: 'trybetunes/'
+    url: 'trybetunes'
   },
   {
     id: 'webweather',
@@ -45,7 +45,7 @@ const data = [
     name: 'Online Store',
     description: 'Trabalho em grupo, manipulação de estados, componentes e softskills ',
     image: Store,
-    url: 'online-store/'
+    url: 'online-store'
   }
 ]
 
