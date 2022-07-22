@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5ab4cce6.js",
-    "static/js/787.6437b320.chunk.js": "/static/js/787.6437b320.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.c735c63f.css",
+    "main.js": "/static/js/main.d2cafdd0.js",
+    "static/media/paletas.png": "/static/media/paletas.aee71fdf5933203ce507.png",
+    "static/media/fotomathews.png": "/static/media/fotomathews.6b2fb94ba1663ff2e2cf.png",
+    "static/media/trunfo.png": "/static/media/trunfo.5913ce22bcf011dc136b.png",
+    "static/media/store.png": "/static/media/store.d5950c41b8c2bbc76ca3.png",
+    "static/media/music.png": "/static/media/music.b112deadebe97be5752b.png",
+    "static/media/clima.jpg": "/static/media/clima.a11cc314beaaa93d70b6.jpg",
+    "static/media/imgHome.png": "/static/media/imgHome.50d65b77080c324654bf.png",
+    "static/media/LI-Logo.png": "/static/media/LI-Logo.a95afc06831647f5fca2.png",
+    "static/media/logogithub.png": "/static/media/logogithub.e8efa7f43ecd05b0a5e4.png",
+    "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5ab4cce6.js.map": "/static/js/main.5ab4cce6.js.map",
-    "787.6437b320.chunk.js.map": "/static/js/787.6437b320.chunk.js.map"
+    "main.c735c63f.css.map": "/static/css/main.c735c63f.css.map",
+    "main.d2cafdd0.js.map": "/static/js/main.d2cafdd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5ab4cce6.js"
+    "static/css/main.c735c63f.css",
+    "static/js/main.d2cafdd0.js"
   ]
 }
