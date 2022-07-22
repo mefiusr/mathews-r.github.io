@@ -1,0 +1,33 @@
+.li-project {
+  list-style-type: none;
+}
+
+.li-project:hover {
+  color: #3f5660;
+  font-size: 1.7rem;
+}
+
+.projects{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.p-projects {
+  color: rgb(54, 50, 50);
+  padding: 5px;
+  text-align: center;
+}
+
+.projetos {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  max-width: 2560px;
+  flex-flow: row wrap;
+}
+
+.projects h2 {
+  margin-top: 20px;
+  font-family: 'Share Tech Mono', monospace;
+}

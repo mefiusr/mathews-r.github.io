@@ -1,0 +1,63 @@
+/* HEADER */
+
+.header {
+  align-items: center;
+  background-color: #4F6D7A;
+  color: #EAEAEA;
+  display: flex;
+  font-family: 'Source Code Pro', monospace;
+  height: 100px;
+  justify-content: space-around;
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  max-width: 2560px;
+}
+
+.h1-header:hover {
+  cursor: pointer;
+}
+
+.title-header {
+  color: white;
+}
+
+#strong-header {
+  color: black;
+}
+
+/* NAV */
+
+.nav-menu {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  margin-top: 6px;
+  padding: 5px;
+}
+
+#ul-menu {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 500px;
+}
+
+.li-menu {
+  border-radius: 5px;
+  display: inline;
+  font-weight: 700;
+  opacity: 0.8;
+  padding: 5px;
+}
+
+.li-menu:hover {
+  background-color: #4F6D7A;
+  border-bottom: 3px solid white;
+  border-radius: 0%;
+  color: white;
+  font-weight: 100;
+}

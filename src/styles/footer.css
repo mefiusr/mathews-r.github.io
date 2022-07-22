@@ -1,0 +1,21 @@
+.footer {
+  align-items: center;
+  background-color: #4F6D7A;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Bellota Text', cursive;
+  font-weight: 700;
+  height: 120px;
+  justify-content: center;
+  max-width: 2560px;
+  width: 100%;
+}
+
+.logoredesocial {
+  padding: 10px;
+  width: 50px;
+}
+
+.logoredesocial:hover {
+  transform: scale(1.1);
+}

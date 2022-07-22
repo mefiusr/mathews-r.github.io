@@ -1,0 +1,35 @@
+.card-projects {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 300px;
+  width: 380px;
+  font-family: 'Share Tech Mono', monospace;
+  text-align: center;
+  margin: 10px;
+}
+
+.button-project {
+  height: 30px;
+  width: 100px;
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button-project:hover {
+  cursor: pointer;
+  background-color: #555555;
+  color: white;
+}
+
+.img-projects {
+  height: 150px;
+  width: 340px;
+  transition: 0.5s;
+}
+
+.img-projects:hover {
+  transform: scale(110%);
+}
