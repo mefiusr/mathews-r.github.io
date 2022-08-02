@@ -31,7 +31,7 @@ const data = [
     name: 'Web Weather',
     description: 'APIs, componentes',
     image: Clima,
-    url: 'clockscript',
+    url: 'webweather',
   },
   {
     id: 'clockjs',
