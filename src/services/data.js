@@ -38,7 +38,7 @@ const data = [
     name: 'Relógio JavaScript',
     description: 'JavaScript e manipulação de DOM',
     image: 'https://super.abril.com.br/wp-content/uploads/2011/01/em-que-hora-acontecem-mais-enfartes.png',
-    url: 'Projeto-Relogio-JS/relogio.html',
+    url: 'projects/clockscript/relogio.html',
   },
   {
     id: 'store',
