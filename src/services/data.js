@@ -3,7 +3,6 @@ import Clima from '../images/clima.jpg';
 import Trunfo from '../images/trunfo.png';
 import Music from '../images/music.png';
 import Store from '../images/store.png';
-import clock from '../clockscript/relogio.html';
 
 const data = [
   {
@@ -39,7 +38,7 @@ const data = [
     name: 'Relógio JavaScript',
     description: 'JavaScript e manipulação de DOM',
     image: 'https://super.abril.com.br/wp-content/uploads/2011/01/em-que-hora-acontecem-mais-enfartes.png',
-    url: clock,
+    url: 'clockscript',
   },
   {
     id: 'store',
