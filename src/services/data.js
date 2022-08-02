@@ -32,7 +32,7 @@ const data = [
     name: 'Web Weather',
     description: 'APIs, componentes',
     image: Clima,
-    url: 'Projeto-Clima-Tempo/climatempo.html',
+    url: 'clockscript',
   },
   {
     id: 'clockjs',
