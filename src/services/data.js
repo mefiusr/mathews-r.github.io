@@ -10,7 +10,7 @@ const data = [
     name: 'Pixels Art',
     description: 'JavaScript e manipulação de DOM',
     image: Paleta,
-    url: 'Projeto-Pixels-Art/pixelsart.html'
+    url: 'pixelsart'
   },
   {
     id: 'tryunfo',
@@ -45,7 +45,7 @@ const data = [
     name: 'Online Store',
     description: 'Trabalho em grupo, manipulação de estados, componentes e softskills ',
     image: Store,
-    url: 'online-store'
+    url: 'onlinestore'
   }
 ]
 
