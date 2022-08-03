@@ -1,4 +1,3 @@
-import Paleta from '../images/paletas.png';
 import Clima from '../images/clima.jpg';
 import Trunfo from '../images/trunfo.png';
 import Music from '../images/music.png';
@@ -6,11 +5,11 @@ import Store from '../images/store.png';
 
 const data = [
   {
-    id: 'pixelsart',
-    name: 'Pixels Art',
-    description: 'JavaScript e manipulação de DOM',
-    image: Paleta,
-    url: 'pixelsart'
+    id: 'trybewallet',
+    name: 'TrybeWallet',
+    description: 'Gerenciamento de estado global - Redux',
+    image: 'https://www.ripplecoinnews.com/wp-content/uploads/2017/09/online-wallet-cryptocurrency.png',
+    url: 'trybewallet'
   },
   {
     id: 'tryunfo',
