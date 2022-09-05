@@ -40,11 +40,11 @@ const data = [
     url: 'clockscript',
   },
   {
-    id: 'store',
-    name: 'Online Store',
+    id: 'recipesapp',
+    name: 'Recipes App',
     description: 'Trabalho em grupo, manipulação de estados, componentes e softskills ',
     image: Store,
-    url: 'onlinestore'
+    url: 'recipesapp'
   }
 ]
 
