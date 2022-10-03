@@ -33,11 +33,11 @@ const data = [
     url: 'webweather',
   },
   {
-    id: 'clockjs',
-    name: 'Relógio JavaScript',
-    description: 'JavaScript e manipulação de DOM',
+    id: 'triviagame',
+    name: 'Trivia Game',
+    description: 'React, Redux e SoftSkills',
     image: 'https://super.abril.com.br/wp-content/uploads/2011/01/em-que-hora-acontecem-mais-enfartes.png',
-    url: 'clockscript',
+    url: 'https://main.d24dfr3f151mt8.amplifyapp.com/',
   },
   {
     id: 'recipesapp',
