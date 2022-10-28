@@ -17,7 +17,7 @@ class MainSection extends React.Component {
             <br />
             <p>EU SOU O <strong>MATHEWS RODRIGUES.</strong></p>
             <br />
-            <p>SOU DESENVOLVEDOR FRONT-END.</p>
+            <p>SOU DESENVOLVEDOR FULL STACK.</p>
           </span>
           <br />
           <div className="divredesociais">
