@@ -9,42 +9,42 @@ const data = [
   {
     id: 'trybewallet',
     name: 'TrybeWallet - Front End',
-    description: 'Gerenciamento de estado global - Redux',
+    description: 'Gerenciamento de estados com Redux e actions assíncronas',
     image: Wallet,
     url: 'trybewallet'
   },
   {
     id: 'triviagame',
     name: 'Trivia Game - Front End',
-    description: 'React, Redux e SoftSkills',
+    description: 'Redux, Testes com RTL e SoftSkills',
     image: Trivia,
     url: 'https://main.d3hwi23vv25da8.amplifyapp.com',
   },
   {
     id: 'recipesapp',
     name: 'Recipes App - Front End',
-    description: 'Trabalho em grupo, manipulação de estados, componentes e softskills ',
+    description: 'Hooks, ContextAPI, Redux e SoftSkills ',
     image: Recipes,
     url: 'recipesapp'
   },
   {
     id: 'blogposts',
     name: 'Blog Posts - Back End',
-    description: 'Componentes com estado/eventos e formulários em React',
+    description: 'Desenvolvimento de API REST com NodeJS, Sequelize e CRUD',
     image: Blog,
     url: 'https://github.com/mathews-r/blogsapi'
   },
   {
     id: 'tfc',
     name: 'Trybe Futebol Clube - Back End',
-    description: 'Componentes com estado/eventos e formulários em React',
+    description: 'Em desenvolvimento',
     image: Times,
     url: ''
   },
   {
     id: 'deliveryapp',
     name: 'Delivery App - Back End',
-    description: 'APIs, componentes',
+    description: 'Em breve',
     image: Delivery,
     url: '',
   }

@@ -70,6 +70,10 @@ a {
         font-size: 60%;
     }
 
+    h2 {
+        text-align: center;
+    }
+
     .menu-toogle {
         height: 30px;
         margin-bottom: 10px;
