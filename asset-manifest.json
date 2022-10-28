@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.c735c63f.css",
-    "main.js": "/static/js/main.7aee9f34.js",
+    "main.js": "/static/js/main.7d2a252c.js",
+    "static/media/delivery.jpg": "/static/media/delivery.8b9f4923e3567a3522c5.jpg",
+    "static/media/blogs.jpg": "/static/media/blogs.e97d6bc5c36760411aa6.jpg",
     "static/media/fotomathews.png": "/static/media/fotomathews.6b2fb94ba1663ff2e2cf.png",
-    "static/media/trunfo.png": "/static/media/trunfo.5913ce22bcf011dc136b.png",
-    "static/media/store.png": "/static/media/store.d5950c41b8c2bbc76ca3.png",
-    "static/media/music.png": "/static/media/music.b112deadebe97be5752b.png",
-    "static/media/clima.jpg": "/static/media/clima.a11cc314beaaa93d70b6.jpg",
+    "static/media/wallet.jpeg": "/static/media/wallet.2be182a8aad72b598730.jpeg",
+    "static/media/recipes.jpeg": "/static/media/recipes.a503b5230606c9fa8423.jpeg",
+    "static/media/times.png": "/static/media/times.47ec7b90dd95cd35ff0a.png",
+    "static/media/trivia.jpeg": "/static/media/trivia.d7bcd19d702b9c10a9f3.jpeg",
     "static/media/imgHome.png": "/static/media/imgHome.50d65b77080c324654bf.png",
     "static/media/LI-Logo.png": "/static/media/LI-Logo.a95afc06831647f5fca2.png",
     "static/media/logogithub.png": "/static/media/logogithub.e8efa7f43ecd05b0a5e4.png",
     "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "index.html": "/index.html",
     "main.c735c63f.css.map": "/static/css/main.c735c63f.css.map",
-    "main.7aee9f34.js.map": "/static/js/main.7aee9f34.js.map"
+    "main.7d2a252c.js.map": "/static/js/main.7d2a252c.js.map"
   },
   "entrypoints": [
     "static/css/main.c735c63f.css",
-    "static/js/main.7aee9f34.js"
+    "static/js/main.7d2a252c.js"
   ]
 }
