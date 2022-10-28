@@ -1,50 +1,52 @@
-import Clima from '../images/clima.jpg';
-import Trunfo from '../images/trunfo.png';
-import Music from '../images/music.png';
-import Store from '../images/store.png';
+import Blog from '../images/blogs.jpg';
+import Times from '../images/times.png';
+import Recipes from '../images/recipes.jpeg';
+import Wallet from '../images/wallet.jpeg';
+import Delivery from '../images/delivery.jpg';
+import Trivia from '../images/trivia.jpeg';
 
 const data = [
   {
     id: 'trybewallet',
-    name: 'TrybeWallet',
+    name: 'TrybeWallet - Front End',
     description: 'Gerenciamento de estado global - Redux',
-    image: 'https://www.ripplecoinnews.com/wp-content/uploads/2017/09/online-wallet-cryptocurrency.png',
+    image: Wallet,
     url: 'trybewallet'
   },
   {
-    id: 'tryunfo',
-    name: 'Tryunfo',
-    description: 'Componentes com estado/eventos e formulários em React',
-    image: Trunfo,
-    url: 'tryunfo'
-  },
-  {
-    id: 'trybetunes',
-    name: 'TrybeTunes',
-    description: 'Componentes com estado/eventos e formulários em React',
-    image: Music,
-    url: 'trybetunes'
-  },
-  {
-    id: 'webweather',
-    name: 'Web Weather',
-    description: 'APIs, componentes',
-    image: Clima,
-    url: 'webweather',
-  },
-  {
     id: 'triviagame',
-    name: 'Trivia Game',
+    name: 'Trivia Game - Front End',
     description: 'React, Redux e SoftSkills',
-    image: 'https://super.abril.com.br/wp-content/uploads/2011/01/em-que-hora-acontecem-mais-enfartes.png',
-    url: 'https://main.d24dfr3f151mt8.amplifyapp.com/',
+    image: Trivia,
+    url: 'https://main.d3hwi23vv25da8.amplifyapp.com',
   },
   {
     id: 'recipesapp',
-    name: 'Recipes App',
+    name: 'Recipes App - Front End',
     description: 'Trabalho em grupo, manipulação de estados, componentes e softskills ',
-    image: Store,
+    image: Recipes,
     url: 'recipesapp'
+  },
+  {
+    id: 'blogposts',
+    name: 'Blog Posts - Back End',
+    description: 'Componentes com estado/eventos e formulários em React',
+    image: Blog,
+    url: 'https://github.com/mathews-r/blogsapi'
+  },
+  {
+    id: 'tfc',
+    name: 'Trybe Futebol Clube - Back End',
+    description: 'Componentes com estado/eventos e formulários em React',
+    image: Times,
+    url: ''
+  },
+  {
+    id: 'deliveryapp',
+    name: 'Delivery App - Back End',
+    description: 'APIs, componentes',
+    image: Delivery,
+    url: '',
   }
 ]
 
