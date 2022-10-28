@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou estudando **Back-End**
 
-- 👨‍💻 Meus projetos podem ser visualiados em: [mathews-r.github.io](mathews-r.github.io)
+- 👨‍💻 Meus projetos podem ser visualiados em: https://mathews-r.github.io/
 
 - 👯 Estou em busca do meu primeiro emprego.
 
