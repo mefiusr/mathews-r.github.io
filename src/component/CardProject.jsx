@@ -18,9 +18,9 @@ export default class CardProject extends Component {
           Tecnologias utilizadas no projeto: {description}
         </h4>
 
-        <Link to={url} target="_blank" rel="noopener noreferrer">
+        <a href={url} target="_blank" rel="noopener noreferrer">
           <button className="button-project" type="button">Visualizar</button>
-          </Link>
+          </a>
 
       </div>
     )
