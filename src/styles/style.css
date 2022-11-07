@@ -62,6 +62,12 @@ a {
     .principal {
         flex-direction: column;
     }
+    .div-text {
+        margin-top: 50px;
+    }
+    .para {
+        line-height: 1.5em;
+    }
 }
 
 @media (max-width: 425px) {
