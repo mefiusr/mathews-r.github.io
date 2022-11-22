@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 import '../styles/cardprojects.css';
 
 export default class CardProject extends Component {
@@ -9,9 +8,9 @@ export default class CardProject extends Component {
     return (
       <div className="card-projects">
 
-        <Link to={url} target="_blank" rel="noopener noreferrer">
+        <a href={url} target="_blank" rel="noopener noreferrer">
           <img className="img-projects" src={image} alt={`Capa do Projeto ${name}`} />
-          </Link>
+          </a>
 
         <h3>{name}</h3>
         <h4>
