@@ -1,5 +1,5 @@
 import Blog from '../images/blogs.jpg';
-import Times from '../images/times.png';
+import Teams from '../images/times.png';
 import Recipes from '../images/recipes.jpeg';
 import Wallet from '../images/wallet.jpeg';
 import Delivery from '../images/delivery.jpg';
@@ -37,9 +37,9 @@ const data = [
   {
     id: 'tfc',
     name: 'Trybe Futebol Clube - Back End',
-    description: 'Em desenvolvimento',
-    image: Times,
-    url: ''
+    description: 'TypeScript, POO, SOLID, MYSQL e CRUD',
+    image: Teams,
+    url: 'https://github.com/mathews-r/trybers-futebol-clube'
   },
   {
     id: 'deliveryapp',
