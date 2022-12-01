@@ -37,9 +37,9 @@ const data = [
   {
     id: 'tfc',
     name: 'Trybe Futebol Clube - Back End',
-    description: 'TypeScript, POO, SOLID, MYSQL e CRUD',
+    description: 'TypeScript, SOLID, MYSQL, Sequelize e CRUD',
     image: Teams,
-    url: 'https://github.com/mathews-r/trybers-futebol-clube'
+    url: 'https://github.com/mathews-r/trybe-futebol-clube'
   },
   {
     id: 'deliveryapp',
