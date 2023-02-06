@@ -39,14 +39,14 @@ const data = [
     name: 'Trybe Futebol Clube - Back End',
     description: 'TypeScript, SOLID, MYSQL, Sequelize e CRUD',
     image: Teams,
-    url: 'https://cooperative-knife-production.up.railway.app/leaderboard'
+    url: 'https://github.com/mathews-r/trybe-futebol-clube'
   },
   {
     id: 'deliveryapp',
     name: 'Delivery App - Full Stack',
     description: 'React, Express, Sequelize, MySQL, NodeJS, BootStrap',
     image: Delivery,
-    url: 'https://wry-potato-production.up.railway.app/login',
+    url: 'https://github.com/mathews-r/appdelivery',
   }
 ]
 
