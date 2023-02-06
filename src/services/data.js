@@ -43,10 +43,10 @@ const data = [
   },
   {
     id: 'deliveryapp',
-    name: 'Delivery App - Back End',
-    description: 'Em breve',
+    name: 'Delivery App - Full Stack',
+    description: 'React, Express, Sequelize, MySQL, NodeJS, BootStrap',
     image: Delivery,
-    url: '',
+    url: 'https://wry-potato-production.up.railway.app/login',
   }
 ]
 
