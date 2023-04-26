@@ -1,49 +1,21 @@
 .about {
-  align-items: center;
-  background-color: rgb(181, 199, 195);
-  display: flex;
-  font-family: 'Bellota Text', cursive;
+  /* align-items: center; */
+  /* background-color: #b5c7c3; */
+  /* display: flex; */
+  /* font-family: 'Bellota Text', cursive; */
   height: 700px;
-  justify-content: center;
-  width: 100% ;
+  /* justify-content: center; */
+  /* width: 100% ; */
 }
 
-.img-article {
+/* .img-article {
   height: 350px;
   width: 300px;
-}
+} */
 
 .about-me {
-  display: flex;
+  /* display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-around; */
   height: 300px;
-}
-
-.about h1, h2 {
-  font-weight: bold;
-  margin-left: 20px;
-}
-
-.about p {
-  font-size: 2rem;
-  margin-left: 20px;
-}
-
-.curriculo {
-  margin-left: 20px;
-  font-size: 1.5em;
-  width: auto;
-  align-self: center;
-  display: flex;
-}
-
-.logoDownload {
-  width: 40px;
-  margin-right: 10px;
-  cursor: pointer;
-}
-
-.curriculo:hover {
-  transform: scale(1.1);
 }

@@ -32,9 +32,6 @@
     .div-text {
         margin-top: 50px;
     }
-    .para {
-        line-height: 1.5em;
-    }
 }
 
 @media (max-width: 425px) {
@@ -42,16 +39,8 @@
         height: 500px;
     }
 
-    .div-image {
-        display: none;
-    }
-
     #photo-devices {
         display: none;
-    }
-
-    .about {
-        flex-direction: column;
     }
 
     .textAreaForm {
