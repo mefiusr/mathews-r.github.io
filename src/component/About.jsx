@@ -17,8 +17,8 @@ export default class About extends Component {
           <h2>Barra Mansa, Rio de Janeiro</h2>
 
           <p className="para">
-            Em transição de carreira, estou me dedicando nos estudos para me tornar um desenvolvedor fullstack. <br />Em fev/2022 tomei a decisão de mudar de área e buscar novos desafios.<br />
-            Atualmente estou estudando Desenvolvimento Web na Trybe.
+            Em transição de carreira, hoje sou Desenvolvedor Full Stack com conhecimentos em NodeJS, Express, <br /> TypeScript, MySQL, Docker, MongoDB, Mongoose, Sequelize, POO, SOLID, JWT, <br />
+            Deploy, React, Redux, Metodologias Ágeis, Método SCRUM e outros.
           </p>
           <div className="curriculo">
             <a download="CVMATHEWS.pdf" target="_blank" href="https://github.com/mathews-r/mathews-r.github.io/blob/master/src/assets/CV_MR_FRONT_PT.pdf" rel="noreferrer" >
